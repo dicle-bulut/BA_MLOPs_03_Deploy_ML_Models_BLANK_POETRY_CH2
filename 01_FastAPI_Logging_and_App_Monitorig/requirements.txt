@@ -1,0 +1,13 @@
+fastapi 
+uvicorn 
+sklearn 
+scikit-learn 
+pandas 
+numpy 
+joblib 
+mlflow
+fastapi[all]
+prometheus_fastapi_instrumentator
+prometheus_client
+pydantic
+fastapi_pagination
